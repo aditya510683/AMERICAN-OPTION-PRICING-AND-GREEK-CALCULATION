@@ -1,6 +1,6 @@
 # American Option Pricing and Greek Calculation 
 
-## Key Steps in BOPM
+## Key Steps 
 
 1. **Build the Price Tree**:
     - Compute the upward (`u`) and downward (`d`) movements based on volatility and time steps.
