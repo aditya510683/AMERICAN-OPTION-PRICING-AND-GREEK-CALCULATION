@@ -1,4 +1,4 @@
-# American Option Pricing and Greek Calculation Using Binomial Options Pricing Model (BOPM)
+# American Option Pricing and Greek Calculation 
 
 ## Key Steps in BOPM
 
@@ -51,3 +51,8 @@
 
 - **Return the Greeks**:
     - Return a dictionary containing the calculated values for Delta, Gamma, Theta, Vega, and Rho.
+- **References**:
+ -Computing Greeks for American Options - Part 1
+ -Computing Greeks for American Options - Part 2
+ -YouTube: Computing Greeks for American Options
+-Options, Futures, and Other Derivatives by John C. Hull, 11th edition
