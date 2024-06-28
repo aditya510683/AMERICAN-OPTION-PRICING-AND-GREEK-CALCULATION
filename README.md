@@ -51,8 +51,10 @@
 
 - **Return the Greeks**:
     - Return a dictionary containing the calculated values for Delta, Gamma, Theta, Vega, and Rho.
-- **References**:
- -Computing Greeks for American Options - Part 1
- -Computing Greeks for American Options - Part 2
- -YouTube: Computing Greeks for American Options
--Options, Futures, and Other Derivatives by John C. Hull, 11th edition
+
+## References
+- [Computing Greeks for American Options - Part 1](https://alphalerts.com/blog/Computing-Greeks-for-American-Options-Part-1/)
+- [Computing Greeks for American Options - Part 2](https://alphalerts.com/blog/Computing-Greeks-for-American-Options-Part-2/)
+- [American Option Pricing with Binomial Trees || Theory & Implementation in Python](https://www.youtube.com/watch?v=K2Iy8bCmXjk)
+- *Options, Futures, and Other Derivatives* by John C. Hull, 11th edition
+ 
